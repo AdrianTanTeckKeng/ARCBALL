@@ -4,7 +4,7 @@
 
 A program written for a class in C++ that implements the ARCBALL[1] mechanism for manipulating and rotating a scene with a mouse.
 
-<img src="images/arcball.pngf?raw=true"/>
+<img src="images/arcball.png?raw=true"/>
 
 Scene files were provided for the class, which contains information on setting up the camera, on light sources, on the objects to be loaded, the linear transformations to set up the scene and the materials properties needed for shading.
 
