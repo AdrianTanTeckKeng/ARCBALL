@@ -13,14 +13,17 @@ Scene files were provided for the class, which contains information on setting u
 The graphics pipeline were implemented using **OpenGL 3.0** and the display, using **GLUT**. Rotations are represented by a quaternions class.Rendering can be toggled between Gouraud shading and wireframe mode. 
 
 The program has the following functionalities:
+<br>
 [w,a,s,d] - to navigate up, left, down and right.
+<br>
 [t] - to toggle between Gouraud shading and wireframe rendering.
+<br>
 [q] - exiting
 ___
 
 ### To-do list:
 
-[1] OpenGL 3.0 with GLUT is very clunky. It will be nice to implement this using Vulkan instead.
+- OpenGL 3.0 with GLUT is very clunky. It will be nice to implement this using Vulkan instead.
 ___
 
 ### References
