@@ -11,6 +11,6 @@ ___
 
 ### References
 
-[1] [ARCBALL: a user infertace for specifying three-dimensional orientation using a mouse](https://github.com/pages-themes/minimal)
+[1] [ARCBALL: a user infertace for specifying three-dimensional orientation using a mouse](https://dl.acm.org/doi/10.5555/155294.155312)
 
 
