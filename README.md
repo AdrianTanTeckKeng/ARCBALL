@@ -10,7 +10,12 @@ More specifically, when we click our mouse at point p=(p<sub>x</sub>, p<sub>y</s
 
 Scene files were provided for the class, which contains information on setting up the camera, on light sources, on the objects to be loaded, the linear transformations to set up the scene and the materials properties needed for shading.
 
-The graphics pipeline were implemented using **OpenGL 3.0** and the display, using **GLUT**. Rotations are represented by a quaternions class.
+The graphics pipeline were implemented using **OpenGL 3.0** and the display, using **GLUT**. Rotations are represented by a quaternions class.Rendering can be toggled between Gouraud shading and wireframe mode. 
+
+The program has the following functionalities:
+[w,a,s,d] - to navigate up, left, down and right.
+[t] - to toggle between Gouraud shading and wireframe rendering.
+[q] - exiting
 ___
 
 ### To-do list:
